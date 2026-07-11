@@ -48,9 +48,9 @@ The database has three tables:
 
 The `invoices` table connects to `products` and `salespersons` using IDs.
 
-The database schema is shown in `chocolate_db.jpg`.
+The database schema is shown in `chocolate_db.png`.
 
-![Chocolate database schema](chocolate_db.jpg)
+![Chocolate database schema](chocolate_db.png)
 
 ## Main Workflow
 
